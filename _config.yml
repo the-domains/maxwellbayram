@@ -1,0 +1,28 @@
+name: maxwellbayram
+favicon: null
+layout_spectrum: 0.47994250524789095
+typography_spectrum: 0.8841469890903682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.024306784383952618
+  lightness: 0.13410640065558255
+  saturation: 0.31079943920485675
+  rhythmicContrast: 0.12161410739645362
+purpose: []
