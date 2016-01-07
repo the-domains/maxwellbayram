@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[maxwellbayram]]></title>
         <description><![CDATA[maxwellbayram]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxwellbayram/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 17:53:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 00:35:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxwellbayram/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd8c6c5-37d4-4a3c-96af-669c1490c725.PNG">]]></description>
-            <link>undefinedef867180-9f83-45be-a3f9-8c75ecdc08ab/index.html</link>
+            <link>https://thegrid.ai/maxwellbayram/ef867180-9f83-45be-a3f9-8c75ecdc08ab/index.html</link>
             <guid isPermaLink="false">ef867180-9f83-45be-a3f9-8c75ecdc08ab</guid>
-            <pubDate>Tue, 05 Jan 2016 17:52:57 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 00:35:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
